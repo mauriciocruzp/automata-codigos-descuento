@@ -27,7 +27,7 @@ export const automata = (input) => {
         q27: { P: "q28" },
         q28: { O: "q29" },
         q29: { R: "q30" },
-        q30: { T: "q34" },
+        q30: { W: "q35" },
         q31: { L: "q32" },
         q32: { A: "q33" },
         q33: { Y: "q34" },
